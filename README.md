@@ -1,6 +1,3 @@
 # DELHI-METRO
 
-#This code helps you to find the best route to travel via DELHI METRO.
-Just enter the source and destination station and see.
-
-Does not include all Delhi Metro Lines
+Python project on finding Best and Shortest Route to Travel in Delhi Metro with User-Friendly GUI made using Tkinter. Graphs Data Structure and Breadth-First Search were used for finding the Metro Route.
